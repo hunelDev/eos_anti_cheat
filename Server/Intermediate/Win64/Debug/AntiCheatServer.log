@@ -1,0 +1,21 @@
+﻿  Copying New Files to Bin
+  pch.cpp
+  CommandLine.cpp
+  DebugLog.cpp
+  Settings.cpp
+C:\Users\ceyhu\Desktop\c_sdk\Samples\Shared\Source\Utils\Settings.cpp(380,13): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Shared/Source/Utils/Settings.cpp')
+  
+C:\Users\ceyhu\Desktop\c_sdk\Samples\Shared\Source\Utils\Settings.cpp(393,12): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/Shared/Source/Utils/Settings.cpp')
+  
+  StringUtils.cpp
+  Utils.cpp
+  AntiCheatNetworkTransport.cpp
+  AntiCheatServer.cpp
+  Main.cpp
+  ServerMain.cpp
+  EosSdk.cpp
+  TCPClient.cpp
+  Generating Code...
+  AntiCheatServer.vcxproj -> C:\Users\ceyhu\Desktop\c_sdk\Samples\AntiCheat\Server\Bin\Win64\Debug\AntiCheatServer.exe
